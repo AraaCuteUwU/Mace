@@ -1,0 +1,6 @@
+name: Mace
+author: FiraAja
+main: FiraAja\Mace\Main
+api: 5.0.0
+version: 1.0.0
+src-namespace-prefix: FiraAja\Mace
